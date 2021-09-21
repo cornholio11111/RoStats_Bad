@@ -28,7 +28,7 @@ html {
   scroll-behavior: smooth;
 }
 
-.Topbar {
+Topbar {
   background-color: var(--color-body-darker);
 }
 
