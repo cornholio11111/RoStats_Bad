@@ -28,7 +28,7 @@ html {
   scroll-behavior: smooth;
 }
 
-.topnav {
+topnav {
   overflow: hidden;
   line-height: 1.5;
   color: var(--color-body-darker);
