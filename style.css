@@ -33,7 +33,7 @@ img {
 
 body {
   font-family: Inter, Arial, Helvetica, sans-serif;
-  color: var(--color-body);
+  background-color: var(--color-body);
 }
 
 h1,
