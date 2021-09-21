@@ -29,7 +29,8 @@ html {
 }
 
 .topnav {
-    overflow: hidden;
+  overflow: hidden;
+  color: var(--color-body-darker);
   background-color: var(--color-body-darker);
 }
 
