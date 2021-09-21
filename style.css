@@ -33,8 +33,9 @@ img {
 
 body {
   font-family: Inter, Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
   color: var(--color-body);
-  background-color: var(--color-body);
 }
 
 h1,
