@@ -4,7 +4,7 @@
   --color-accent: #ff3400;
   --color-headings: #1b0760;
   --color-body: #181a1d;
-  --color-body-darker: #5c5577;
+  --color-body-darker: #131517;
   --color-hover: #0058ab;
   --color-border: #ccc;
   --border-radius: 30px;
@@ -26,6 +26,10 @@
 html {
   font-size: 62.5%;
   scroll-behavior: smooth;
+}
+
+.Topbar {
+  background-color: var(--color-body-darker);
 }
 
 img {
